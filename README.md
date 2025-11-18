@@ -14,16 +14,16 @@ The program fetches real-time weather data — including temperature, humidity, 
 * API: OpenWeatherMap
 ## 🧱Project Structure
 ```bash
-📂 weather-notification
- ├── weather_notification.py       # Main Python script
- └── README.md                     # Project documentation
+📂 WeatherNotificationsOnDesktop
+ ├── WeatherNotificationsOnDesktop.py       # Main Python script
+ └── README.md                              # Project documentation
 ```
-## Requirements
+## 🧰Requirements
 Install dependencies using pip:
 ```bash
 pip install requests plyer
 ```
-## Output
+## 📤Output
 Enter City Name: Bengaluru
 
 
