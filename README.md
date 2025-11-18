@@ -19,4 +19,15 @@ The program fetches real-time weather data — including temperature, humidity, 
 ## Requirements
 Install dependencies using pip:
 ```bash
-pip install requests plyer 
+pip install requests plyer
+```
+## Output
+Enter City Name: Bengaluru
+
+
+<img width="320" height="146" alt="image" src="https://github.com/user-attachments/assets/179b8ff4-ffb2-4ee1-a323-bc4a5af56b69" />
+
+
+
+
+
