@@ -13,9 +13,11 @@ The program fetches real-time weather data — including temperature, humidity, 
 * Libraries: requests, plyer, time
 * API: OpenWeatherMap
 ## 🧱Project Structure
+```bash
 📂 weather-notification
- ├── weather_notification.py   # Main Python script
- └── README.md                 # Project documentation
+ ├── weather_notification.py       # Main Python script
+ └── README.md                     # Project documentation
+```
 ## Requirements
 Install dependencies using pip:
 ```bash
